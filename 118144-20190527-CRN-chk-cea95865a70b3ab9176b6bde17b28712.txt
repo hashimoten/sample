@@ -1,0 +1,43 @@
+Cleanny for INTEC
+ Edition ver. with DB ver.1.3
+
+【P2Pファイル共有ソフト検出ツール (個人PC)】
+
+所属：NI東京第一ソリューション部
+個人コード：118144
+名前：橋本雄太
+
+実行開始時間：2019/05/27 0:08:31
+
+PC名：
+ユーザ名：
+OS：Windows10
+ドライブ：
+C:\[hard disk]
+D:\[CD_ROM]
+E:\[hard disk]
+
+検査ドライブ：
+C:\
+E:\
+(13148)
+
+HDD S/N：
+CPU：
+
+拡張ファイル検索：Ares.exe,Azureus.exe,BitComet.exe,BitTorrent.exe,Cabos.exe,Direct_Connect.exe,DLAMEY.exe,ebotLite.exe,eDonkey.exe,eMule.exe,Foxy.exe,Frostwire.exe,gnutella.exe,grokster.exe,irvine.exe,Kazaa.exe,Kceasy.exe,Limewire.exe,mlnet.exe,morpheus.exe,PacketMonStar.exe,Perfect Dark.exe,slsk.exe,StreamGet.exe,uTorrent.exe,WeBoX.exe,WinMX.exe,Winnyp.exe,Xolox.exe
+
+保存先（デフォルト）：デスクトップ上に保存
+
+結果：◎◎◎検査対象ファイルは検知されませんでした◎◎◎
+読み込み不可ファイル：
+C:\Users\yuta hashimoto\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalCache\Local\Microsoft\OneDrive\OneDrive.exe
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe.config
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe.config
+
+実行終了時間：2019/05/27 0:30:39
+
+連絡先：
+検知されたらネットワークから切離し、
+アンインストールしてください。
+　　　　　(ver.2.5.8 with DB ver.1.3)
